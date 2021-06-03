@@ -1,3 +1,3 @@
 # Bonus-Calculator
 
-This is Simple Bonus Calculation Program develop using java. 
+<img src="https://github.com/buddhirangana/Bonus-Calculator/blob/main/images/Screenshot.PNG" alt="Screenshot">
